@@ -1,4 +1,4 @@
-<h2 align="left">Hello! 👋<br>I'm a web development enthusiast currently on the journey to becoming a fullstack developer. I'm passionate about learning new technologies and tackling challenges that allow me to grow both professionally and personally.<br><br>Thanks for visiting my profile! 🚀</h2>
+<h3 align="left">Hello! 👋<br>I'm a web development enthusiast currently on the journey to becoming a fullstack developer. I'm passionate about learning new technologies and tackling challenges that allow me to grow both professionally and personally.<br><br>Thanks for visiting my profile! 🚀</h3>
 
 ###
 
